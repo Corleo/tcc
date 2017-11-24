@@ -1,0 +1,10 @@
+tmp/
+projects/
+webapp/
+webesp/
+esp-open-sdk/
+micropython/
+mpfshell/
+webrepl/
+
+*.pyc

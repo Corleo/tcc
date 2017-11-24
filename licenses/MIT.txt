@@ -1,0 +1,42 @@
+The MIT License (MIT)
+
+*   Project https://github.com/corleo/tcc
+*   Project https://github.com/corleo/webapp
+*   Project https://github.com/corleo/webesp
+    Copyright (c) 2017 Vitor Assis
+
+*   Project https://github.com/micropython/micropython
+    Copyright (c) 2013, 2014 Damien P. George
+
+*   Project https://github.com/micropython/micropython-lib
+    Copyright (c) 2013, 2014 micropython-lib contributors
+
+*   Project https://github.com/micropython/webrepl
+    Copyright (c) 2016 Damien P. George
+    Copyright (c) 2016 Paul Sokolovsky
+
+*   Project https://github.com/wendlers/mpfshell
+    Copyright (c) 2016 Stefan Wendler
+
+*   Project https://github.com/realpython/flask-registration
+    Copyright (c) 2016 Real Python
+
+*   Project https://github.com/miguelgrinberg/flasky
+    Copyright (c) 2013 Miguel Grinberg
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
